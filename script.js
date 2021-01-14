@@ -1,7 +1,6 @@
  setInterval(() => {
     const skipbtn = document.querySelector('.ytp-ad-skip-button.ytp-button')
     const smalladd = document.querySelector('.ytp-ad-overlay-close-button')
-    // let  document.querySelector('.ytp-ad-overlay-close-button')
     
     
     if (skipbtn != undefined) {
